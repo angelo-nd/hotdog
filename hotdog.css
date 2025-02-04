@@ -1,0 +1,32 @@
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(200, 86, 86);
+    margin: -22px;
+    padding-top: 6px;
+    padding-bottom: 1px;
+    background-image: url('https://media.tenor.com/8fpqBIFXC0IAAAAC/fire-flames.gif');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: screen;
+}
+
+.ut{
+    font-size: 1.2em;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.grid{
+    text-align: center;
+}
+
+.hotdog{
+    object-position: right;
+    max-width: 200px;
+    width: 100%;
+    min-width: 100px;
+}
